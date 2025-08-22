@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	desc "github.com/olezhek28/microservices_course_boilerplate/pkg/chat_v1"
+	desc "github.com/dratum/chat-server/pkg/chat_v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
